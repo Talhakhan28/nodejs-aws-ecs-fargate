@@ -57,7 +57,7 @@ docker build -t node-app .
 Run container:
 
 ```bash
-docker run -p 80:80 node-app
+docker run -p 8000:8000 node-app
 ```
 
 ---
